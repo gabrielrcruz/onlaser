@@ -1,0 +1,54 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.page-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.video-container {
+  display: flex;
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+}
+
+.video-wrapper {
+  flex: 0 0 auto;
+  scroll-snap-align: start;
+  margin-right: 10px;
+}
+
+video {
+  width: 100%;
+  max-width: 300px; /* Ajuste este valor de acordo com o tamanho desejado */
+  display: block;
+}
+
+.cursor-container {
+  width: 100%;
+  height: 5px; /* Ajuste a altura da barra de progresso */
+  background-color: #f1f1f1; /* Cor da barra de progresso */
+}
+
+.cursor {
+  width: 0;
+  height: 100%;
+  background-color: #4CAF50; /* Cor do cursor */
+}
+
+.navigation {
+  text-align: center;
+}
+
+.nav-btn {
+  font-size: 20px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
