@@ -1,0 +1,294 @@
+/* styles.css */
+body {
+    background-color: #800080;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://images.yampi.me/assets/stores/prolaser-bc/uploads/banners/653539c8a3a9f.png');
+    background-position: center;
+    background-repeat: no-repeat;
+  background-position: 50px 50px;
+  overflow-x: scroll;
+}
+
+
+.neon-button {
+    width: 15px;
+    height: 15px;
+    background-color: yellow;
+    border-radius: 50%;
+    transition: box-shadow 0.3s;
+    position: absolute;
+    background-position: 50px 50px;
+  
+}
+
+.neon-button2 {
+    width: 15px;
+    height: 15px;
+    background-color: #800080;
+    border-radius: 50%;
+    transition: box-shadow 0.3s;
+    position: absolute;
+    background-position: 50px 50px;
+  
+}
+
+
+/* Posicionamento para as âncoras "bottom-pescoco" */
+.bottom-pescoco {
+    top: 204px;
+    left: 227px;
+}
+
+/* Posicionamento para as âncoras "bottom-braco-completo" */
+.bottom-braco-completo {
+    top: 236px;
+    left: 195px;
+}
+
+/* Posicionamento para as âncoras "bottom-meio-braco" */
+.bottom-meio-braco {
+    top: 269px;
+    left: 194px;
+}
+
+/* Posicionamento para as âncoras "bottom-antebracos" */
+.bottom-antebracos {
+    top: 304px;
+    left: 185px;
+}
+
+/* Posicionamento para as âncoras "bottom-linha-alba" */
+.bottom-linha-alba {
+    top: 318px;
+    left: 235px;
+}
+
+/* Posicionamento para as âncoras "bottom-virilha-biquini" */
+.bottom-virilha-biquini {
+    top: 335px;
+    left: 211px;
+}
+
+/* Posicionamento para as âncoras "bottom-virilha-parte-intima" */
+.bottom-virilha-parte-intima {
+    top: 353px;
+    left: 236px;
+}
+
+/* Posicionamento para as âncoras "bottom-anterior-de-coxas" */
+.bottom-anterior-de-coxas {
+    top: 383px;
+    left: 214px;
+}
+
+/* Posicionamento para as âncoras "bottom-coxas-completas" */
+.bottom-coxas-completas {
+    top: 417px;
+    left: 220px;
+}
+
+/* Posicionamento para as âncoras "bottom-joelhos" */
+.bottom-joelhos {
+    top: 439px;
+    left: 221px;
+}
+
+/* Posicionamento para as âncoras "bottom-pernas-inteiras" */
+.bottom-pernas-inteiras {
+    top: 464px;
+    left: 223px;
+}
+
+/* Posicionamento para as âncoras "bottom-meia-perna" */
+.bottom-meia-perna {
+    top: 485px;
+    left: 226px;
+}
+
+/* Posicionamento para as âncoras "bottom-pes-e-dedos" */
+.bottom-pes-e-dedos {
+    top: 553px;
+    left: 226px;
+}
+
+/* Posicionamento para as âncoras "bottom-seios" */
+.bottom-seios {
+    top: 247px;
+    left: 261px;
+}
+
+/* Posicionamento para as âncoras "bottom-areolas" */
+.bottom-areolas {
+    top: 264px;
+    left: 253px;
+}
+
+/* Posicionamento para as âncoras "bottom-barriga" */
+.bottom-barriga {
+    top: 301px;
+    left: 247px;
+}
+
+/* Posicionamento para as âncoras "bottom-virilha-completa" */
+.bottom-virilha-completa {
+    top: 336px;
+    left: 267px;
+}
+
+/* Posicionamento para as âncoras "bottom-testa" */
+.bottom-testa {
+    top: 402px;
+    left: 460px;
+}
+
+/* Posicionamento para as âncoras "bottom-glabela" */
+.bottom-glabela {
+    top: 423px;
+    left: 450px;
+}
+
+/* Posicionamento para as âncoras "bottom-nariz" */
+.bottom-nariz {
+    top: 457px;
+    left: 451px;
+}
+
+/* Posicionamento para as âncoras "bottom-buco" */
+.bottom-buco {
+    top: 475px;
+    left: 451px;
+}
+
+/* Posicionamento para as âncoras "bottom-face-completa" */
+.bottom-face-completa {
+    top: 499px;
+    left: 425px;
+}
+
+/* Posicionamento para as âncoras "bottom-costeletas" */
+.bottom-costeletas {
+    top: 445px;
+    left: 504px;
+}
+
+/* Posicionamento para as âncoras "bottom-faces-laterais" */
+.bottom-faces-laterais {
+    top: 463px;
+    left: 483px;
+}
+
+/* Posicionamento para as âncoras "bottom-queixo" */
+.bottom-queixo {
+    top: 502px;
+    left: 451px;
+}
+
+/* Posicionamento para as âncoras "bottom-nuca" */
+.bottom-nuca {
+    top: 207px;
+    left: 649px;
+}
+
+/* Posicionamento para as âncoras "bottom-axilas" */
+.bottom-axilas {
+    top: 259px;
+    left: 679px;
+}
+
+/* Posicionamento para as âncoras "bottom-lombar" */
+.bottom-lombar {
+    top: 306px;
+    left: 651px;
+}
+
+/* Posicionamento para as âncoras "bottom-gluteos" */
+.bottom-gluteos {
+    top: 322px;
+    left: 665px;
+}
+
+/* Posicionamento para as âncoras "bottom-anus" */
+.bottom-anus {
+    top: 337px;
+    left: 650px;
+}
+
+/* Posicionamento para as âncoras "bottom-bananinha" */
+.bottom-bananinha {
+    top: 351px;
+    left: 674px;
+}
+
+/* Posicionamento para as âncoras "bottom-maos-e-dedos" */
+.bottom-maos-e-dedos {
+    top: 362px;
+    left: 718px;
+}
+
+/* Posicionamento para as âncoras "bottom-interno-de-coxas" */
+.bottom-interno-de-coxas {
+    top: 391px;
+    left: 654px;
+}
+
+/* Posicionamento para as âncoras "bottom-lateral-de-coxas" */
+.bottom-lateral-de-coxas {
+    top: 406px;
+    left: 680px;
+}
+
+/* Posicionamento para as âncoras "bottom-poterior-de-coxas" */
+.bottom-poterior-de-coxas {
+    top: 419px;
+    left: 657px;
+}
+
+.bottom-orelhas {
+    top: 179px;
+    left: 667px;
+}
+
+.bottom-top {
+    top: 0px;
+    left: 437px;
+}
+
+.bottom-dir {
+    top: 309px;
+    left: 859px;
+}
+
+.neon-button:hover {
+    animation: pulse 1s infinite;
+    box-shadow: 0 0 10px yellow, 0 0 20px yellow, 0 0 30px yellow;
+}
+
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 10px yellow, 0 0 20px yellow, 0 0 30px yellow;
+    }
+    50% {
+        box-shadow: none;
+    }
+    100% {
+        box-shadow: 0 0 10px yellow, 0 0 20px yellow, 0 0 30px yellow;
+    }
+}
+
+.neon-button2:hover {
+    animation: pulse 1s infinite;
+    box-shadow: 0 0 10px yellow, 0 0 20px yellow, 0 0 30px yellow;
+}
+
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 10px yellow, 0 0 20px yellow, 0 0 30px yellow;
+    }
+    50% {
+        box-shadow: none;
+    }
+    100% {
+        box-shadow: 0 0 10px yellow, 0 0 20px yellow, 0 0 30px yellow;
+    }
+}
